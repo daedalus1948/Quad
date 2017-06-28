@@ -1,5 +1,5 @@
 # this is a NON-COMMERCIAL project created for educative purposes
-# the aim of this project is to introduce  basics concept of programming a video-game
+# the aim of this project is to introduce  basic concepts of programming a video-game
 # FPS, rendering, game loop, keystroke events and game logic are discussed below
 # many concepts are simplified due to the abstractions provided by the PyGame library
 # this example does not aim to represent a completely finished video-game
